@@ -1,0 +1,18 @@
+Lab 3: MapReduce Bigrams
+
+Team Members:
+Abhinav Garg - abgarg@eng.ucsd.edu - A53095668
+Rishabh Singh Verma - rsverma@eng.ucsd.edu - A53103069
+
+Contents of zip file:
+
+1. Code folder : contains all the project files for multiple node hadoop cluster and bigram computations related files
+2. samplefile.txt : a copy of the file containing The Project Gutenberg EBook of The Adventures of Sherlock Holmes.
+3. start.sh : automated shell file
+
+Required:
+1. Ubuntu
+2. Docker setup
+
+Testing:
+In the current directory, run command "source start.sh" in the terminal to run the project.
